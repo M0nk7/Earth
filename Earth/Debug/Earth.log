@@ -1,0 +1,4 @@
+﻿  01.cpp
+C:\Users\TUF\source\repos\Earth\Earth\01.cpp(6,6): warning C4101: 'average': unreferenced local variable
+C:\Users\TUF\source\repos\Earth\Earth\01.cpp(6,15): warning C4101: 'SD': unreferenced local variable
+  Earth.vcxproj -> C:\Users\TUF\source\repos\Earth\Debug\Earth.exe
